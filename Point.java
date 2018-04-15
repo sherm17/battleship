@@ -28,7 +28,7 @@ public class Point{
   }
 
   public char displayCharacter(){
-	  if(isShip) {
+  if(isShip) {
 		  if(isHit) {
 			  return 'x';
 		  }
@@ -37,7 +37,7 @@ public class Point{
 		  if(isHit) {
 			  return '.';
 		  }
-	  }
+	}
 	  return '~';
   }
 
