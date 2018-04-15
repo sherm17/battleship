@@ -5,3 +5,5 @@ Battleship game simulation develop in Java using OOP
   - Ship: ships are composed of Point objects
   - Point: a Point object that is determined by the x and y coordinate value
   - Game: main function() starts game
+  
+To run program, download 4 files and compile in IDE or using javac in termical 
