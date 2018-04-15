@@ -1,4 +1,4 @@
-Battleship game simulation develop in Java using OOP
+Battleship game simulation developed in Java using OOP
 
 4 Classes:
   - Board: a 10x10 board constructed using Point objects and a double array
