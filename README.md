@@ -14,7 +14,9 @@ x's are hits made by user
 .'s are misses made by user
 
 9 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 8 ~ ~ ~ ~ ~ ~ . ~ ~ ~
+
 7 ~ ~ ~ ~ ~ ~ x x x x
 6 ~ ~ ~ ~ ~ ~ ~ . ~ ~
 5 ~ ~ ~ ~ . ~ ~ ~ ~ ~
